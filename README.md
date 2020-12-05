@@ -2,7 +2,7 @@
 steps of my blog
 
 1st download my raw file 
-2nd extract the file from zip 
+2nd extract the file in xampp to htdocs
 3rd go to xamp and find htdocs then data create folder (ikaw bahala sa imong ipangalan) 
 4th after create folder open xamp and go to chrome and type localhost/phpmyadmin
 5th import the pecardal_db.sql (you will find this on my folder which is in raw file) 
